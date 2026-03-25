@@ -55,7 +55,3 @@ Double down on marketing efforts in high-performing West and East regions. Launc
 Maintain a balanced channel mix by continuing investment across Online, Retail, and Partner channels, while optimizing each channel’s efficiency and customer experience.
 
 Product Strategy Focus: Prioritize inventory, promotions, and pricing strategies around high-performing products while exploring ways to improve sales of underperforming categories.
-
-This project demonstrates the ability to:
-
-Perform data cleaning and transformation using SQL, build and calculate advanced KPIs using DAX in Power BI, Design interactive and executive-level dashboards, translate data into actionable business insights and strategic recommendations
