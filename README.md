@@ -11,8 +11,8 @@ Track overall business performance, Analyze revenue and profit trends, Identify 
 
 **Tools & Technologies**
 
-**SQL Server** – Data cleaning, transformation, and KPI preparation
-**Power BI** – Dashboard development and data visualization
+**SQL Server**: Data cleaning, transformation, and KPI preparation
+**Power BI**: Dashboard development and data visualization
 
 **Dataset**
 
@@ -20,20 +20,20 @@ A simulated retail dataset containing Orders, customers, products, and sales dat
 
 **Key KPIs**
 
-Total Revenue
-Total Profit
-Profit Margin (%)
-Total Orders
-Total Customers
+Total Revenue,
+Total Profit,
+Profit Margin (%),
+Total Orders,
+Total Customers,
 Average Order Value (AOV)
 
 **Dashboard Features**
 
-Revenue and profit trends over time
-Revenue breakdown by product category, region, and sales channel
-Top-performing products and sales representatives
-Customer growth analysis
-Channel performance comparison
+Revenue and profit trends over time,
+Revenue breakdown by product category, region, and sales channel,
+Top-performing products and sales representatives,
+Customer growth analysis,
+Channel performance comparison,
 Interactive filters (date, region, category, channel, segment)
 
 **Insights**
