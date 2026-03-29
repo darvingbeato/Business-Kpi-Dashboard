@@ -34,7 +34,7 @@ Revenue breakdown by product category, region, and sales channel,
 Top-performing products and sales representatives,
 Customer growth analysis,
 Channel performance comparison,
-Interactive filters (date, region, category, channel, segment)
+Interactive filters (date, region, category, channel)
 
 **Insights**
 
