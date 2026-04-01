@@ -14,10 +14,6 @@ Track overall business performance, Analyze revenue and profit trends, Identify 
 **SQL Server**: Data cleaning, transformation, and KPI preparation
 **Power BI**: Dashboard development and data visualization
 
-**Dataset**
-
-A simulated retail dataset containing Orders, customers, products, and sales data with 65000 records across multiple regions and sales channels. Metrics such as revenue, cost, profit, and discounts
-
 **Key KPIs**
 
 Total Revenue,
