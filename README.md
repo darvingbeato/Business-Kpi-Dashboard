@@ -29,7 +29,7 @@ Average Order Value (AOV)
 
 **Insights**
 
-New customer acquisition has declined significantly over the past two years, while repeat customer volume has steadily increased. This indicates strong customer satisfaction and retention—customers who purchase once are highly likely to return. However, the declining inflow of new customers presents a long-term growth risk if not addressed.
+New customer acquisition has declined significantly over the past two years, while repeat customer volume has steadily increased. This indicates strong customer satisfaction and retention; customers who purchase once are highly likely to return. However, the declining inflow of new customers presents a long-term growth risk if not addressed.
 
 Electronics Category Dominance: The Electronics category is the primary revenue driver, led by high-value products such as Smartphones, Tablets, and Monitors, which frequently appear in large transactions.
 
