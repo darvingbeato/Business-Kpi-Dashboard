@@ -27,15 +27,6 @@ Total Orders,
 Total Customers,
 Average Order Value (AOV)
 
-**Dashboard Features**
-
-Revenue and profit trends over time,
-Revenue breakdown by product category, region, and sales channel,
-Top-performing products and sales representatives,
-Customer growth analysis,
-Channel performance comparison,
-Interactive filters (date, region, category, channel)
-
 **Insights**
 
 New customer acquisition has declined significantly over the past two years, while repeat customer volume has steadily increased. This indicates strong customer satisfaction and retention—customers who purchase once are highly likely to return. However, the declining inflow of new customers presents a long-term growth risk if not addressed.
