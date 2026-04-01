@@ -1,5 +1,4 @@
 # Business-Kpi-Dashboard
-This project presents an end-to-end Business Intelligence solution designed to monitor company performance through an executive-level dashboard. The goal is to simulate a real-world scenario where business leaders track key performance indicators (KPIs), identify trends, and make data-driven decisions.
 
 
 <img width="1333" height="925" alt="image" src="https://github.com/user-attachments/assets/4651c206-8337-46dc-8715-c7e587836dbc" />
@@ -7,12 +6,13 @@ This project presents an end-to-end Business Intelligence solution designed to m
 
 **Objectives**
 
-Track overall business performance, Analyze revenue and profit trends, Identify top-performing products, regions, and sales channels, Deliver actionable, data-driven business insights
+Track overall business performance, analyze revenue and profit trends, and identify top-performing products, regions, and sales channels. 
+Then deliver actionable, data-driven business insights.
 
 **Tools & Technologies**
 
 **SQL Server**: Data cleaning, transformation, and KPI preparation
-**Power BI**: Dashboard development and data visualization
+**Power BI**: Dashboard for data visualization
 
 **Key KPIs**
 
